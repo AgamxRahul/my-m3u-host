@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/playlist", "destination": "/playlist.m3u" }
+  ]
+}
